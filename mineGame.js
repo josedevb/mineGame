@@ -69,4 +69,4 @@ function mineCounter(board, x, y, mineChar='*'){
   return -1  
 }
 
-//console.log(mineSwiper(board))
+console.log(mineSwiper(board))
